@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.contenedor{
+    width: 55%;
+    margin: 20px auto;
+    background-color: chocolate;
+    padding: 20px;
+    color: white;
+
+}
+
+
+
